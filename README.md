@@ -113,3 +113,9 @@ pour que l'API DSM puisse lire les fichiers extraits lors de l'installation via 
 | `build.py` | Script de packaging en `.host` |
 | `upload_test.py` | Upload un fichier de test sur gofile.io (voir lien de test ci-dessus) |
 | `GoFileIo(1.0.3).host` | Archive installable dans DSM |
+
+---
+
+## Crédits
+
+Basé sur le travail de [Gizmo091/synology_1fichier_hosting](https://github.com/Gizmo091/synology_1fichier_hosting) — plugin Download Station pour 1fichier.com, qui a servi de référence pour la structure et le fonctionnement des fichiers `.host`.
